@@ -10,5 +10,4 @@ class Student
   end
 
 
-
 end
